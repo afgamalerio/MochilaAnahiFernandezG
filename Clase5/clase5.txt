@@ -1,0 +1,76 @@
+﻿Introducción a la informática.
+
+
+
+Clase 5: Estructura de la computadora.
+
+
+
+Una computadora es una máquina que recibe datos, los procesa y muestra los resultados. 
+Estos resultados pueden ser almacenados, transmitidos o impresos.
+
+
+Cuando le damos una orden a una computadora, esta viaja a traves de impulsos 
+eléctricos que son interpretados como 0 y 1, conocidos normalmente como bits. 
+Representar la información como impulsos eléctricos es lo que le permite a las 
+computadoras procesar y transformar la información. 
+Esta información que se le envia a 
+la computadora es procesada por su "cerebro", llamado Unidad Central de Procesos (CPU), 
+esta para realizar las tareas requiere de instrucciones que se almacenan en la memoria 
+princial de la computadora.
+
+
+
+Componentes internos:
+
+
+Los componentes internos de la computadora son todos aquellos que son inseparables de 
+la misma. De faltar alguno de ellos esta podria no funcionar o hacerlo de manera 
+erronea.
+
+
+ - Placa madre: La placa principal, todos los dispositivos se conectan a ella.
+
+
+ - Procesador o CPU: Interpreta y ejecuta instrucciones a traves de operaciones 
+ aritméticas y lógicas.
+
+
+ - Memoria RAM: Almacena la información que requiere la pc de manera temporal, su contenido se elimina cada 
+ vez que se apaga la misma.
+
+
+ - Memoria ROM: Almacena información de manera permanente. Guarda la información de 
+ encendido y funcionamiento básico de la pc.
+
+
+ - Placas de video o sonido: Permiten realizar precisamente dichas actividades. Se 
+ conectan a la madre.
+
+
+ - Disco rígido o disco duro: Almacena información que la computadora no necesita 
+ inmediatamente, de manera permanente.
+
+
+Componentes externos:
+
+
+Son aquellos que no son impresindibles para su funcionamiento, sino que agregan 
+funcionalidades.
+
+
+ - Perifericos: De entrada, salida, mixtos, de almacenamiento o comunicación.
+
+
+
+El CPU:
+
+
+Es el elemento más importante de la computadora, su función principal es procesar las 
+tareas de la pc a traves de instrucciones lógicas y matemáticas. Estas instrucciones 
+están almacenadas en la memoria RAM. Cada paso tiene un tiempo de proceso, una 
+instrucción y la ubicación donde está lo que se necesita para llevar a cabo el 
+proceso.
+
+La velocidad del proceso está determinada por la frecuencia, los núcleos, los 
+subprocesos o hilos y la memoria caché.
