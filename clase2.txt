@@ -1,0 +1,34 @@
+﻿Introducción a la informática.
+
+
+
+Segunda clase: Terminales.
+
+
+
+La terminal es el medio por el cual el usuario puede darle órdenes a la computadora. 
+Se encuentra en todos los sistemas operativos.
+
+
+
+Mediante la terminal se pueden realizar todas las operaciones que se realizan con la interfaz gráfica y el mouse, pero más rápido.
+
+
+
+Cuando se ejecuta una orden, el sistema abre tres interfaces standars: de entrada (por defecto el teclado), de salida (por defecto la pantalla) y de error (por defecto tambien la pantalla).
+
+
+
+Algunos comandos comunes (varian según el SO): 
+
+
+ - cd y cd .. : Permite moverse entre carpetas.
+
+ - mkdir: Crea una carpeta.
+
+ - rmdir: Borra una carpeta.
+
+ - nano: Abre el editor de texto.
+ 
+- ls: Lista los archivos y directorios presentes en una ubicación.
+

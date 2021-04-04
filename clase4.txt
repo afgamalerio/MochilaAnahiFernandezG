@@ -1,0 +1,37 @@
+﻿Introducción a la informática.
+
+
+
+Clase 4: GitHub.
+
+
+
+Un repositorio remoto es donde se guardan los archivos de los proyectos y realizarles un seguimiento. 
+
+Se puede acceder a el siempre que se tenga permiso del creador, desde cualquier parte.
+
+
+
+El primer paso para trabajar con repositorios remotos es configurar el usuario en la terminal. Para esto se ejecuta git config --global user.name "usuario" y git config --global user.email "email"
+
+
+
+Para acceder a un repositorio remoto primero se debe clonarlo en el dispositivo. Se accede al repositorio 
+remoto mediante una cuenta de GitHub y se copia el link que aclara en la página, luego en la consola se 
+ejecuta git clone https://..
+
+
+
+También se puede conectar un repositorio 
+local con uno remoto mediante git push origin 
+master/main. (Para esto se debe haber hecho 
+git add y git commit -m antes).
+
+
+
+Finalmente, para descargar los archivos 
+actualizados de un repositorio remoto se debe 
+ejecutar git pull origin main.
+
+En caso de existir algún conflicto en la actualización del repositorio remoto, usualmente debido a que se editó el mismo archivo, se debe elegir si se conserva uno de los dos cambios o los dos, esto es más facil mediante la terminal de VSC.
+

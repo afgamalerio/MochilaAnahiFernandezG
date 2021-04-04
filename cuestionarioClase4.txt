@@ -1,0 +1,33 @@
+﻿Cuestionario clase 4.
+
+
+
+Git y GitHub.
+
+
+
+1 - ¿Quién inventó el sistema de control de versión Git y por qué?
+
+
+El sistema de control de versiones de Git fue diseñado por Linus Benedict Torvalds, un Ingeniero de software finlandes, en 2005. Nació inspirado 
+en el sistema de control de versiones BitKeeper, en el contexto del desarrollo de Linux. Pensando en que fuera de diseño sencillo, rápido, de 
+desarrollo no lineal, completamente distribuido y especialmente capaz de manejar grandes proyectos eficientemente. 
+Su propósito es llevar 
+registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un 
+repositorio de código.
+
+
+
+
+2 - ¿A quién pertenece actualmente Github y por qué?
+
+
+Actualmente GitHub pertenece a Microsoft. Esto es debido a la importante ventaja estratégita que otorga poseer estar en contacto directo con los 
+desarrolladores que trabajan en red. 
+
+
+
+3 - ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+
+Existen métodos más visuales para trabajar con GitHub, como fork o GitHub para escritorio.

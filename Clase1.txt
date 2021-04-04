@@ -1,0 +1,29 @@
+﻿Introducción a la informática.
+
+
+
+Primer clase: Introducción.
+
+
+
+Presentación de la materia, el equipo docente y los objetivos de la cursada. 
+
+
+ - La matería trata del análisis de los dispositivos tecnológicos, desde su creación hasta la actualidad. Para comprender como estan conformados y su funcionamiento. 
+
+
+
+Computadora - Interfaz (SO) - Usuario
+
+
+
+Hardware: Los recursos de los que dispone el sistema, físicos.
+
+
+
+Software: Interpreta y ejecuta los deseos del usuario, lógicos.
+
+Programar es darle instruciones a una computadora para que cumpla una tarea específica, es darle el que, como y cuando. 
+
+
+

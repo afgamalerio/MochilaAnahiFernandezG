@@ -1,0 +1,20 @@
+﻿Introducción a la informática.
+
+
+
+Clase 3: Git.
+
+
+
+Git nos permite crear repositorios de nuestros proyectos para guardarlos y 
+compartirlos con otros miembros del equipo de trabajo.
+
+
+Los respositorios locales se crean en la computadora y contienen los archivos del 
+proyecto.
+
+
+ - Para crear un repositorio local: git init - git add . (agrega todos los archivos 
+ que esten presentes en la carpeta) - git commit -m "mensaje del commit".
+
+ - Para revisar en que estado se encuentran los archivos de un proyecto: git status.
